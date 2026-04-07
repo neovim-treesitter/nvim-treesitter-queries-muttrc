@@ -1,7 +1,7 @@
 {
   "parser_version": "173b0ab53a9c07962c9777189c4c70e90f1c1837",
-  "url": "https://github.com/neomutt/tree-sitter-muttrc",
-  "semver": false,
+  "location": null,
   "lang": "muttrc",
-  "location": null
+  "url": "https://github.com/neomutt/tree-sitter-muttrc",
+  "semver": false
 }
